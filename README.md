@@ -62,6 +62,13 @@ Mapa cenital con las categorías reales:
 Los siete renders están en [`docs/renders/`](docs/renders/). La bitácora del
 proceso y la presentación están en [`docs/`](docs/).
 
+## Póster
+
+[![Póster del proyecto](docs/poster_preview.jpg)](docs/poster.png)
+
+Versión para imprimir en A2 (42 × 59,4 cm, 3508 × 4961 px):
+[`docs/poster.png`](docs/poster.png).
+
 ---
 
 ## Cómo está hecho
