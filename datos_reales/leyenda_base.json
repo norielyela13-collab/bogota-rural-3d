@@ -1,0 +1,62 @@
+{
+  "1": {
+    "codigo": "1",
+    "categoria": "Desarrollo restringido",
+    "subcategoria": "Área de vivienda campestre rural"
+  },
+  "2": {
+    "codigo": "2",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas e inmuebles considerados como patrimonio cultural"
+  },
+  "3": {
+    "codigo": "3",
+    "categoria": "Desarrollo restringido",
+    "subcategoria": "Nodos de equipamientos rurales"
+  },
+  "4": {
+    "codigo": "4",
+    "categoria": "Desarrollo restringido",
+    "subcategoria": "Centros poblados rurales"
+  },
+  "5": {
+    "codigo": "5",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental"
+  },
+  "6": {
+    "codigo": "6",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental"
+  },
+  "7": {
+    "codigo": "7",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental"
+  },
+  "8": {
+    "codigo": "8",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la producción agrícola y ganadera y la explotación de recursos natruales"
+  },
+  "10": {
+    "codigo": "10",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas de amenaza y riesgo"
+  },
+  "11": {
+    "codigo": "11",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental"
+  },
+  "12": {
+    "codigo": "12",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la producción agrícola y ganadera y la explotación de recursos natruales"
+  },
+  "13": {
+    "codigo": "13",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas del sistema de servicios públicos domiciliarios"
+  }
+}

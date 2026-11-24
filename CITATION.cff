@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usas este modelo o sus datos, cita el proyecto así:"
+title: "Modelo 3D del suelo rural de Bogotá"
+abstract: >-
+  Modelo tridimensional del suelo rural de Bogotá construido con datos
+  abiertos: categorías del POT (Decreto 555 de 2021) y relieve SRTM.
+  Incluye el modelo en GLB, los renders y un visor web autocontenido.
+authors:
+  - family-names: Yela
+    given-names: Washington
+    affiliation: "Universidad Distrital Francisco José de Caldas — Semillero GIGA"
+date-released: "2026-11-23"
+license: MIT
+url: "https://github.com/norielyela13-collab/bogota-rural-3d"
+keywords:
+  - Bogotá
+  - suelo rural
+  - POT
+  - SRTM
+  - modelo 3D
+  - Blender
+  - QGIS
+  - catastro

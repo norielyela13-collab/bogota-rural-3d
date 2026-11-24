@@ -1,0 +1,86 @@
+{
+  "1": {
+    "codigo": "1",
+    "categoria": "Desarrollo restringido",
+    "subcategoria": "Área de vivienda campestre rural",
+    "celdas": 27,
+    "area_km2": 1.3
+  },
+  "2": {
+    "codigo": "2",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas e inmuebles considerados como patrimonio cultural",
+    "celdas": 18,
+    "area_km2": 0.9
+  },
+  "3": {
+    "codigo": "3",
+    "categoria": "Desarrollo restringido",
+    "subcategoria": "Nodos de equipamientos rurales",
+    "celdas": 27,
+    "area_km2": 1.3
+  },
+  "4": {
+    "codigo": "4",
+    "categoria": "Desarrollo restringido",
+    "subcategoria": "Centros poblados rurales",
+    "celdas": 4,
+    "area_km2": 0.2
+  },
+  "5": {
+    "codigo": "5",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental",
+    "celdas": 270,
+    "area_km2": 13.3
+  },
+  "6": {
+    "codigo": "6",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental",
+    "celdas": 4922,
+    "area_km2": 241.7
+  },
+  "7": {
+    "codigo": "7",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental",
+    "celdas": 12059,
+    "area_km2": 592.1
+  },
+  "8": {
+    "codigo": "8",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la producción agrícola y ganadera y la explotación de recursos natruales",
+    "celdas": 201,
+    "area_km2": 9.9
+  },
+  "10": {
+    "codigo": "10",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas de amenaza y riesgo",
+    "celdas": 12,
+    "area_km2": 0.6
+  },
+  "11": {
+    "codigo": "11",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la conservación y protección ambiental",
+    "celdas": 5772,
+    "area_km2": 283.4
+  },
+  "12": {
+    "codigo": "12",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas para la producción agrícola y ganadera y la explotación de recursos natruales",
+    "celdas": 1650,
+    "area_km2": 81.0
+  },
+  "13": {
+    "codigo": "13",
+    "categoria": "Suelos de protección",
+    "subcategoria": "Áreas del sistema de servicios públicos domiciliarios",
+    "celdas": 376,
+    "area_km2": 18.5
+  }
+}
